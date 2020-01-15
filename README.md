@@ -1,4 +1,4 @@
-# Readme Edits
+### Readme Edits
 This is an added information.
 
 # Welcome to GitHub
